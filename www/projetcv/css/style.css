@@ -1,0 +1,128 @@
+.left_column
+{
+	
+	position: absolute;
+	/*margin-left: 30%;*/
+	margin-top: 23%;
+	display: block;
+	/*float: left;*/
+	width: 30%;
+	height: 100%;
+	padding: 1%;
+	/*background: lightblue;*/
+}
+
+.corps
+{
+	
+	position: absolute;
+	margin-left: 30%;
+	margin-top: 20%;
+	display: block;
+	/*float: right;*/
+	width: 66%;
+	height: 100%;
+	padding: 1%;
+	padding-left: 2%;
+	/*background: lightgreen;*/
+}
+
+img
+{
+	position: absolute;
+	margin-left: 5%;
+	/*margin-top: 2%;*/
+	display: block;
+	float: left;
+	border-radius: 20px;
+	border-style: inset;
+	width: 15%;
+}
+
+.age
+{	
+	position: absolute;
+	margin-left: 11%;
+	margin-top: 17%;
+	display: block;
+	float: left;
+	clear: left;
+	font-weight: bold;
+	overflow: auto;
+}
+
+.name
+{	
+	position: absolute;
+	margin-left: 25%;
+	display: block;
+	/*float: right;*/
+	text-align: center;
+	font-weight: bold;
+	width: 66%;
+	padding: 1%;
+	/*background: yellow;*/
+}
+
+.citation
+{	
+	position: absolute;
+	margin-left: 25%;
+	margin-top: 12%;
+	display: block;
+	/*float: right;*/
+	text-align: center;
+	font-weight: bold;
+	width: 66%;
+	padding: 1%;
+	/*border-style: solid;*/
+	border-radius: 5px;
+	border-style: inset;
+	background: lightgreen;
+}
+
+h3
+{
+	border-radius: 5px;
+	border-style: inset;
+	background: #43b053;
+	padding-left: 2%;
+	color: white;
+}
+
+p
+{
+	padding-left: 6%;
+	padding-right: 6%;
+}
+
+h4
+{
+	padding-left: 3%;
+	color: blue;
+}
+
+#retrait1
+{
+	padding-left: 4%;
+	font-weight: bold;
+	color: blue;
+}
+
+#retrait2
+{
+	padding-left: 8%;
+	margin-top: -2%;
+}
+
+#ligne2
+{
+	padding-left: 4%;
+	margin-top: -2%;
+	font-style: italic;
+}
+
+/*#fonction
+{
+	text-align: center;
+}*/
